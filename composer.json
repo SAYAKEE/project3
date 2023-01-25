@@ -1,0 +1,16 @@
+{
+    "name": "arji/project3",
+    "authors": [
+        {
+            "name": "HAN ZAW HTET",
+            "email": "arjinomoto268@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Helpers\\": "_classes/Helpers/",
+            "Libs\\Database\\": "_classes/Libs/Database/"
+        }
+    }
+}
