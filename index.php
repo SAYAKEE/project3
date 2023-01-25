@@ -19,12 +19,12 @@
     <main class="wrap">
         <h1>Log In</h1>
         <hr>
-        <form action="_actions/login.php">
+        <form action="_actions/login.php" method="post">
             <label for="mail" class="form-label"><b>EMAIL</b></label>
-            <input type="text" class="form-control">
+            <input type="text" id="mail" name="email" class="form-control">
             <br>
             <label for="pswd" class="form-label"><b>PASSWORD</b></label>
-            <input type="password" class="form-control">
+            <input type="password" id="pswd" name="password" class="form-control">
             <br>
             <input type="submit" class="btn btn-warning w-100" value="Log In">
         </form>
