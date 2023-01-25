@@ -28,6 +28,12 @@
             <br>
             <input type="submit" class="btn btn-warning w-100" value="Log In">
         </form>
+
+        <div class="p-3">
+            <span class="alert">
+                Don't have an account? <a href="register.php" class="link">Register</a>
+            </span>
+        </div>
     </main>
 </body>
 </html>

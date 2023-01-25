@@ -19,7 +19,7 @@
             <div class="flex-fill"></div>
             <div class="navbar-nav">
                 <span class="nav-item">
-                    <a href="#" class="nav-link">Home <i class="fas fa-house"></i> </a>    
+                    <a href="#" class="nav-link active">Home <i class="fas fa-house"></i> </a>    
                 </span>
                 <span class="nav-item">
                     <a href="#" class="nav-link">About <i class="fas fa-contact-book"></i></a>    
